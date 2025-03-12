@@ -68,7 +68,7 @@ while True:
     elif choice == "4":
         list_operations()
     elif choice == "5":
-        print("Exiting program. Goodbye!")
+        print("Exit program, Thank you")
         break
     else:
-        print("Invalid choice! Please select a valid option.")
+        print("Invalid, please select a valid option.")
